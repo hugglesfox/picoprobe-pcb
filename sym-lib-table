@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "picoprobe-pcb-rescue")(type "KiCad")(uri "${KIPRJMOD}/picoprobe-pcb-rescue.kicad_sym")(options "")(descr ""))
+)
